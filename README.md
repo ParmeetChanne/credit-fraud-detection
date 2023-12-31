@@ -36,5 +36,5 @@ This project involves the following steps:
 - **Cross-Validation Scores:** [98.25%, 92.59%, 94.55%, 92.31%, 98.25%]
 - **Mean CV Score:** 95.19%
 
-The results indicate a well-performing model with high accuracy, precision, recall, and F1 score. The confusion matrix illustrates low false positives and false negatives, signifying the model's accuracy in predicting both fraudulent and legitimate transactions.
+## The results indicate a well-performing model with high accuracy, precision, recall, and F1 score. The confusion matrix illustrates low false positives and false negatives, signifying the model's accuracy in predicting both fraudulent and legitimate transactions.
 ---
