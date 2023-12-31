@@ -38,7 +38,7 @@ This project involves the following steps:
 
 ## The results indicate a well-performing model with high accuracy, precision, recall, and F1 score. The confusion matrix illustrates low false positives and false negatives, signifying the model's accuracy in predicting both fraudulent and legitimate transactions.
 
-![image](https://github.com/ParmeetChanne/credit-fraud-detection/assets/67189839/8b0572db-fbd2-4e8f-b7de-fc798956d095)
+![image](https://github.com/ParmeetChanne/credit-fraud-detection/assets/67189839/3719a3ef-194a-4e52-b222-75eff641582c)
 
 
 ---
